@@ -1,0 +1,11 @@
+# Rename to terraform.tfvars and modify with your actual values
+
+aws_region       = "us-east-1"
+instance_type    = "t2.medium"
+key_name         = "glad-ubuntukeypair"
+private_key_path = "~/.ssh/glad-ubuntukeypair.pem"
+domain_name      = "gladspace.site"
+route53_zone_id  = "Z1234567890ABCDEFGHIJ"
+admin_email      = "ugerondu@gmail.com"
+git_repo_url     = "https://github.com/theglad-x/DevOps-Stage-4.git"
+git_branch       = "main"
