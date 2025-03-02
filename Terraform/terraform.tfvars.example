@@ -1,8 +1,8 @@
 
 aws_region       = "us-east-1"
 instance_type    = "t2.medium"
-key_name         = "xxxxxkeypair.pem"
-domain_name      = "your domain.com"
+key_name         = "your-keypair"
+domain_name      = "your-domain.com"
 route53_zone_id  = "Z1234567890ABCDEFGHIJ"
 admin_email      = "xxxxx@email.com"
 git_repo_url     = "https://github.com/your-project/repo"
