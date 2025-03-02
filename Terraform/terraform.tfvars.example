@@ -1,4 +1,3 @@
-# Rename to terraform.tfvars and modify with your actual values
 
 aws_region       = "us-east-1"
 instance_type    = "t2.medium"
